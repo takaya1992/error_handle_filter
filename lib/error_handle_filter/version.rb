@@ -1,3 +1,3 @@
-module ErrorHandleFilter
-  VERSION = "0.0.3"
+class ErrorHandleFilter
+  VERSION = "0.0.4"
 end
